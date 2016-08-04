@@ -1,0 +1,52 @@
+_repo: The-Amateur-Cracksman_706
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    alias: Hornung, Ernest William
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: "The Amateur Cracksman was the original short story collection by E.W.\
+  \ Hornung featuring his most famous character, A. J. Raffles, a gentleman thief\
+  \ in late Victorian Great Britain. It was first published in 1899. The book was\
+  \ very well received and spawned three follow-ups: two more short story collections,\
+  \ The Black Mask (1901) and A Thief in the Night (1904), as well as a full-length\
+  \ novel, Mr. Justice Raffles in 1909.\nArthur Raffles is a prominent member of London\
+  \ society, and a national sporting hero. As a cricketer he regularly represents\
+  \ England in Test matches. He uses this as a chance to commit a number of burglaries,\
+  \ primarily stealing valuable jewelry from his hosts. In this he is assisted by\
+  \ his friend, the younger, idealistic Bunny Manders. Both men are constantly under\
+  \ the surveillance of Inspector Mackenzie of Scotland Yard who is always thwarted\
+  \ in his attempts to pin the crimes on Raffles.\nIn the final story, \"The Gift\
+  \ of the Emperor\", Raffles is called into service on behalf of the Foreign Office\
+  \ who wish to recover a valuable pearl from a German diplomat staying in England.\
+  \ However, this is only in the TV adaptation; in the book he is working entirely\
+  \ for his own profit.\nThe short stories included in the collection are:\n\"The\
+  \ Ides of March\"\n\"A Costume Piece\"\n\"Gentlemen and Players\"\n\"Le Premier\
+  \ Pas\"\n\"Wilful Murder\"\n\"Nine Points of the Law\"\n\"The Return Match\"\n\"\
+  The Gift of the Emperor\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '706'
+  wikidata: Q7713285
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Raffles (Fictitious character) -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Detective and mystery stories, English'
+- GITenberg
+title: The Amateur Cracksman
+url: http://www.gutenberg.org/ebooks/706
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Amateur_Cracksman
+- https://es.wikipedia.org/wiki/El_perpetrador_aficionado
