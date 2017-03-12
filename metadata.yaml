@@ -1,5 +1,8 @@
 _repo: The-Amateur-Cracksman_706
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: cover.png
 creator:
   author:
     agent_name: Hornung, E. W. (Ernest William)
@@ -28,6 +31,8 @@ description: "The Amateur Cracksman was the original short story collection by E
   \ Ides of March\"\n\"A Costume Piece\"\n\"Gentlemen and Players\"\n\"Le Premier\
   \ Pas\"\n\"Wilful Murder\"\n\"Nine Points of the Law\"\n\"The Return Match\"\n\"\
   The Gift of the Emperor\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/706#The-Amateur-Cracksman
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '1996-11-01'
 gutenberg_type: Text
